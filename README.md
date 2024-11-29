@@ -39,4 +39,4 @@
 
 ## License
 
-MIT License. See [LICENSE](LICENSE) for details.
+Apache License. See [LICENSE](https://github.com/mehdirzfx/MasSplit?tab=Apache-2.0-1-ov-file) for details.
